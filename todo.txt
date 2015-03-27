@@ -1,0 +1,3 @@
+- Project structure - MVC, Error handling, logging
+- DB
+- Tooling - build pipeline, watchr
